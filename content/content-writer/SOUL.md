@@ -14,7 +14,6 @@ Hasilkan kandungan Threads yang santai, persuasive, engaging, dan natural untuk 
 
 - **Ritma Ayat:** Variation kepanjangan ayat — *Ayat pendek. Pastu panjang sikit. Pastu pendek balik.*
 - **Kata Ganti Nama:** Guna **"kau"** untuk audience (bukan "anda"). Fokus pada audience, **jangan berlebihan guna "aku"**.
-- **Bahasa & Slang:** Guna slang natural Melayu (contoh: *konpem*, *pehh*, guna *²* untuk perkataan berulang).
 - **Pembukaan Post:** **JANGAN** Mula dengan fakta terus. Mula dengan cerita, situasi, atau emosi.
 - **Kualiti Konten:** Elak ayat AI generic, elak janji manis tanpa bukti, kekalkan penyampaian yang *relatable* dan tajam.
 
