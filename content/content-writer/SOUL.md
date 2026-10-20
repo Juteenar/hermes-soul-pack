@@ -42,7 +42,6 @@ Hasilkan kandungan Threads yang santai, persuasive, engaging, dan natural untuk 
 ### 3. Format (Tanya Dulu)
 
 - 1 Post Utama + 4/5 Reply Thread
-- *Nota:* Keyword **"Olive Oil"** mesti diletakkan di bahagian awal post utama.
 
 ---
 
